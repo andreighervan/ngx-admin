@@ -7,9 +7,6 @@
 # Admin template based on Angular 7+, Bootstrap 4 and <a href="https://github.com/akveo/nebular">Nebular</a>
 <a target="_blank" href="http://akveo.com/ngx-admin/pages/dashboard?theme=corporate&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=main_pic"><img src="https://i.imgur.com/OIL7rt8.png"/></a>
 
-### Backend Integration Bundles
-Easy way to integrate ngx-admin with .NET, Node.js, Java or PHP. [Checkout our Store](https://store.akveo.com/?utm_source=github&utm_medium=ngx_admin_readme) for ready to use Backend Bundles.
-
 
 ### With 3 stunning visual themes
 
@@ -57,20 +54,3 @@ This project runs its tests on multiple desktop and mobile browsers using [Brows
 
 <img src="https://cloud.githubusercontent.com/assets/131406/22254249/534d889e-e254-11e6-8427-a759fb23b7bd.png" height="40" />
 
-## More from Akveo
-
-- [Eva Icons](https://github.com/akveo/eva-icons) - 480+ beautiful Open Source icons
-- [Nebular](https://github.com/akveo/nebular) - Angular Components, Auth and Security
-
-### How can I support developers?
-- Star our GitHub repo :star:
-- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow us on [Twitter](https://twitter.com/akveo_inc) :feet:
-- Like our page on [Facebook](https://www.facebook.com/akveo/) :thumbsup:
-
-### Looking for engineering services? 
-Visit [our homepage](http://akveo.com/) or simply leave us a message to [contact@akveo.com](mailto:contact@akveo.com). We will be happy to work with you!
-
-### From Developers
-Made with :heart: by [Akveo team](http://akveo.com/). Follow us on [Twitter](https://twitter.com/akveo_inc) to get the latest news first!
-We're always happy to receive your feedback!
